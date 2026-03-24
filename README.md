@@ -2,7 +2,7 @@
 
 Full-Stack Engineer · Java + React + Python · AI Systems · Lawrence, Kansas
 
-I build full-stack applications and ship AI into production. Three years of industry experience across enterprise Java backends, React frontends, and LLM pipelines — owning features end-to-end from database schema to deployed UI. Currently finishing MSCS at University of Kansas.
+I build full-stack applications and ship AI into production. Three years of industry experience across enterprise Java backends, React frontends, and LLM pipelines — owning features end-to-end from database schema to deployed UI. Graduated MSCS at University of Kansas.
 
 **Looking for:** Full-time SWE / Full-Stack / AI-integrated product roles · Remote or On-Site · US-authorized
 
