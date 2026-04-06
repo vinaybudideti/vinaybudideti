@@ -50,9 +50,6 @@ Testing       JUnit 5 · Mockito · Jest · TestContainers · WireMock
 | **Vosyn** — Full-Stack Engineering Intern | Aug – Oct 2025 |
 | **KU NCCS Research Lab** — Full-Stack Software Developer | Jan – Mar 2024 |
 | **University of Kansas** — IT Support Specialist | Apr – Aug 2024 |
-| **Cognizant** — Full Stack Developer · Java | Jul 2022 – Jul 2023 |
-| **Cognizant** — Programming Analyst Intern | Jan – Jun 2022 |
-| **SVEC** — Software Developer Co-op | Jun – Dec 2020 |
 
 ---
 
